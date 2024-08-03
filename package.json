@@ -1,0 +1,23 @@
+{
+  "name": "Skydash",
+  "private": true,
+  "version": "0.1.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4"
+  },
+  "dependencies": {
+    "swiper": "^11.1.5"
+  },
+  "description": "My personal portfolio website",
+  "main": "index.html",
+  "keywords": [],
+  "author": "Skydash",
+  "license": "ISC"
+}
