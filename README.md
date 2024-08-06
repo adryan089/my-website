@@ -8,6 +8,7 @@ with HTML language as the framework, CSS language as the skin, Javascript Vite l
 ### FEATURE 
 
 :last_quarter_moon: With a touch of the appearance and scripting from Vite, you can also change the Dark/Light mode on the navbar left!
+
 ![Light Mode](https://github.com/user-attachments/assets/3203647f-98e2-45b3-8daa-6e6031cce6ba)
 
  
